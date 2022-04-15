@@ -3,7 +3,7 @@
   "timestamp": "2022-04-14T15:55:12.671Z",
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {},
@@ -13,7 +13,7 @@
     {
       "name": "Dai Stablecoin",
       "address": "0xe3520349F477A5F6EB06107066048508498A291b",
-      "symbol": "DAI",
+      "symbol": "DAIS",
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0xe3520349F477A5F6EB06107066048508498A291b/logo.svg"
