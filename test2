@@ -1,9 +1,9 @@
 {
   "name": "TEST2",
-  "timestamp": "2022-04-20T17:00:12.671Z",
+  "timestamp": "2022-04-26T17:00:12.671Z",
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {},
@@ -697,6 +697,14 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x19cc40283B057D6608C22F1D20F17e16C245642E/logo.png"
+    },
+    {
+      "name": "UST (WormHole)",
+      "address": "0x8D07bBb478B84f7E940e97C8e9cF7B3645166b03",
+      "symbol": "WUST",
+      "decimals": 6,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8D07bBb478B84f7E940e97C8e9cF7B3645166b03/logo.png"
     }
   ]
 }
