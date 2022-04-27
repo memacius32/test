@@ -1,9 +1,9 @@
 {
   "name": "TEST3",
-  "timestamp": "2022-04-20T15:55:12.671Z",
+  "timestamp": "2022-04-27T00:35:12.671Z",
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {},
@@ -697,6 +697,14 @@
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x19cc40283B057D6608C22F1D20F17e16C245642E/logo.png"
+    },
+    {
+      "name": "Huobi BTC",
+      "address": "0x95f09a800e80a17eac1ba746489c48a1e012d855",
+      "symbol": "HBTC",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/aurora-is-near/bridge-assets/master/tokens/hbtc.svg"
     }
   ]
 }
