@@ -1,9 +1,9 @@
 {
   "name": "TEST4",
-  "timestamp": "2022-04-27T00:51:12.671Z",
+  "timestamp": "2022-05-02T11:00:12.671Z",
   "version": {
     "major": 2,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tags": {},
@@ -713,6 +713,14 @@
       "decimals": 6,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x8D07bBb478B84f7E940e97C8e9cF7B3645166b03/logo.png"
+    },
+     {
+      "name": "vaporwave.finance",
+      "address": "0x2451dB68DeD81900C4F16ae1af597E9658689734",
+      "symbol": "VWAVE",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/0x2451dB68DeD81900C4F16ae1af597E9658689734/logo.svg"
     }
   ]
 }
